@@ -1,0 +1,43 @@
+/*
+A Design by Vishwajeet8005
+Author: Vishwajeet
+Author URL: 
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+*/
+
+----------------------------------
+NOTE : FREQUENTLY ASKED QUESTIONS 
+----------------------------------
+
+1. Is Vishwajeet8005 Templates Really Free?
+
+	Yes, all our templates free to use for both commercial and non-commercial, but you have provide a back link to Vishwajeet8005 (GitHub) which is already included in footer design by Vishwajeet8005 don�t edit or remove it.
+
+2. I want to Help Vishwajeet8005, How can I?
+
+	 Just Join My Discord Server and You Get Your Help ,OK!
+
+3. I want to remove Vishwajeet8005 back link from footer?
+
+	Donate us $10 
+
+4. Will these templates work on iPhone, Android platforms, Tabs like kindle and Ipads?
+
+	Yes, Template Stock templates work with all Smartphones and Tablets. To, support all the devices we are providing bootstrap Responisve designs WEB Template.
+
+5. What is Web Template?
+
+	WEB template is a responsive design which can be used for desktop users. Users visiting website from desktop browsers can view WEB template
+
+
+6. Do I need a separate version for Smartphones and Tablets?
+
+	No, WEB Template is compatible in all web browsers, Smartphones and Tablets. 
+
+7. Do I need any database?
+
+	No, it is not necessary.
+
+
+
